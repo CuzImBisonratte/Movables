@@ -4,8 +4,10 @@ To use it, you should have an html-page.
 <br/>
 Just put the two lines under this line, at the bottom of your body-tag!
 <br/>
+<br/>
 <script src="https://raw.githubusercontent.com/CuzImBisonratte/Movables/main/main.js?token=AL63QYLIL3HX3UBQ5FMBULDAHDEOG">
-<link rel="stylesheet" href="https://raw.githubusercontent.com/CuzImBisonratte/Movables/main/style.css?token=AL63QYK4YJX5TVOFKGFNZPDAHDEQM">
+<br/>
+<style src="https://raw.githubusercontent.com/CuzImBisonratte/Movables/main/style.css?token=AL63QYK4YJX5TVOFKGFNZPDAHDEQM"></style>
 <br/>
   <br/>
 <br/>
