@@ -3,3 +3,7 @@ This is an advanced Version of the W3Schools-Draggable (https://www.w3schools.co
 
 To use It, just put this two lines of code at the End of your Body Tag!
 
+
+
+
+If you want to have the Scripts locally, just go to both sites and copy all to your files!
