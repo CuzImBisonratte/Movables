@@ -11,9 +11,7 @@ Just put the two lines under this line, at the bottom of your body-tag!
 <style src="https://raw.githubusercontent.com/CuzImBisonratte/Movables/main/style.css?token=AL63QYK4YJX5TVOFKGFNZPDAHDEQM"></style>
 <br/>
   <br/>
-<br/>
-# LOCAL STORED SCRIPTS  
-<br/>
-  <br/>
-<br/>
+<br/>  
+  
+# Store Scripts Local
 If you want to have the Scripts locally, just go into both files and copy all to your files OR download the Repo and use the files!
